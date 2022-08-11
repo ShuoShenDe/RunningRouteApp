@@ -1,0 +1,68 @@
+[
+          {
+                    "featureType": "all",
+                    "elementType": "all",
+                    "stylers": {
+                              "lightness": 10,
+                              "saturation": -100
+                    }
+          },
+          {
+                    "featureType": "water",
+                    "elementType": "all",
+                    "stylers": {
+                              "color": "#6fa8dc",
+                              "hue": "#6fa8dc",
+                              "lightness": 61,
+                              "saturation": 65
+                    }
+          },
+          {
+                    "featureType": "green",
+                    "elementType": "geometry",
+                    "stylers": {
+                              "color": "#558341",
+                              "hue": "#93c47d",
+                              "lightness": 46,
+                              "saturation": 7
+                    }
+          },
+          {
+                    "featureType": "building",
+                    "elementType": "geometry",
+                    "stylers": {
+                              "color": "#c27ba0",
+                              "hue": "#c27ba0",
+                              "lightness": 46,
+                              "saturation": 7
+                    }
+          },
+          {
+                    "featureType": "boundary",
+                    "elementType": "geometry",
+                    "stylers": {
+                              "color": "#c27ba0",
+                              "lightness": 46,
+                              "saturation": 7
+                    }
+          },
+          {
+                    "featureType": "manmade",
+                    "elementType": "geometry",
+                    "stylers": {
+                              "color": "#fce5cd",
+                              "hue": "#f4cccc",
+                              "lightness": 33,
+                              "saturation": -56
+                    }
+          },
+          {
+                    "featureType": "land",
+                    "elementType": "geometry",
+                    "stylers": {
+                              "color": "#741b47",
+                              "lightness": 65,
+                              "saturation": -72
+                    }
+          }
+]
